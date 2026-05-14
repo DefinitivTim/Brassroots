@@ -46,3 +46,13 @@ world_the_end/
 # --- Misc ---
 .env
 .env.local
+
+# --- Local helper / setup scripts (not part of the published pack) ---
+setup-and-push.ps1
+setup-and-push.cmd
+push-wiki.ps1
+push-wiki.cmd
+cleanup-repo.ps1
+cleanup-repo.cmd
+*.ps1
+*.cmd
