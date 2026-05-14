@@ -1,75 +1,123 @@
-# Brassroots
+<div align="center">
 
-> A cozy, Create-focused Minecraft modpack for 1.21.1 (NeoForge).
+<!-- Banner: 1280×720 empfohlen. Beispielhafter Pfad: -->
+![Brassroots Banner](https://placehold.co/1280x400/3d2914/d4a574?text=Brassroots&font=playfair)
 
-**Brassroots** is a hand-curated modpack that pairs the deep machinery of the [Create](https://modrinth.com/mod/create) ecosystem with cozy survival, building, cooking, exploring, and train travel. The name is a portmanteau of **"brass"** (Create's signature material) and **"grassroots"** (community-driven, down-to-earth) — signalling a Create-first pack with a relaxed, atmospheric feel rather than a hard grind.
+# 🌿 Brassroots ⚙️
+
+### *Cozy survival, deeply rooted in Create.*
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.net)
+[![NeoForge](https://img.shields.io/badge/NeoForge-21.1-D4A574?style=for-the-badge)](https://neoforged.net)
+[![Mods](https://img.shields.io/badge/Mods-~370-3d2914?style=for-the-badge)](#)
+[![Multiplayer](https://img.shields.io/badge/Multiplayer-Ready-2D5F3F?style=for-the-badge)](#)
+
+</div>
 
 ---
 
-## At a glance
+> *Tinker with brass and gears in the morning.*
+> *Decorate your cottage in the afternoon.*
+> *Ride your own rail network across new biomes by evening.*
+
+**Brassroots** is a hand-curated NeoForge modpack built around the **Create** mod and a carefully chosen ecosystem of its best add-ons. No hard grind. No rigid quest line. Just a warm, atmospheric world where automation feels handmade and your home feels lived-in.
+
+If you love the *idea* of Create but want to live in a place that feels real — fields, kitchens, train stations, market squares — **Brassroots is for you.**
+
+---
+
+<div align="center">
+
+## ✨ What's Inside
+
+</div>
+
+### ⚙️ A Complete Create Universe
+
+Create itself, plus a deep stack of community add-ons — **Aeronautics**, **Numismatics**, **Big Cannons**, **Connected**, **Confectionery**, **Copper & Zinc**, **Enchantment Industry**, **Factory**, **Hypertube**, **Ironworks**, **Power Loader**, **Radar**, **Train Parts**, **Vibrant Vaults**, **Jetpack**, **Tea**, **Transmission**, and many more.
+
+> If it bolts onto Create cleanly and earns its keep, it's probably here.
+
+### 🚂 Trains & Travel That Matter
+
+**Steam 'n' Rails**, **Create Railways Navigator**, **Antique Atlas**, **Surveyor**, **Explorer's & Nature's Compass**. Your rail network isn't a gimmick — it's the backbone of how you move through the world.
+
+### 🏡 Real Building, Real Homes
+
+The full **Macaw's** series · **Chipped** · **Handcrafted** · **Supplementaries** · **Comforts** · **Better Beds** · **Immersive Furniture** · **Immersive Lanterns** · **Bells and Whistles** · **Hearths** · **Plushie Buddies** — and more.
+
+> Decorating isn't an afterthought. It's a core part of the loop.
+
+### 🍞 Food, Farming & Feasts
+
+**Farmer's Delight** plus a generous selection of its expansions — Auto Chef's, Fruits, More, Nether's, Oceans, Rustic, Display, Storage — joined by **Some Assembly Required**, **Smarter Farmers**, and **Right Click Harvest**.
+
+### 🗺️ A World Worth Wandering
+
+| Worldgen | Structures |
+|---|---|
+| Terralith · Tectonic · Biomes O' Plenty · Oh The Biomes We've Gone · Better End · Better Nether · Hybrid Aquatic · Oh The Trees You'll Grow | YUNG's Better Series · Dungeons Arise · CTOV Villages · Dungeons and Taverns · Lukis Structures · Medieval Buildings · Incendium · Illager Invasion |
+
+### 🎵 Sound & Atmosphere
+
+**Sound Physics Remastered** · **Drip Sounds** · **Pipe Organs** · **Immersive Melodies** · **AmbientSounds** · **ParticleRain** · **Simple Voice Chat**.
+
+> Bring headphones.
+
+### 🚀 Tuned for Performance
+
+**Sodium**, **Iris** (with EuphoriaPatcher), **ImmediatelyFast**, **Lithium**, **Saturn**, **Krypton**, **FerriteCore**, **C2ME**, **Noisium**, **ModernFix**, and **BadOptimizations** are doing the heavy lifting so you don't have to fight the framerate.
+
+### 🛠️ Quality of Life
+
+**Jade** · **JEI** · **Modopedia** · **BetterAdvancements** · **Legendary Tooltips** · **Controlling** · **Easy Anvils & Magic** · **ShulkerBoxTooltip** — and the rest of the modern essentials, dialed in to disappear into the background.
+
+---
+
+<div align="center">
+
+## 👥 Built for Groups, Not Just Solo
+
+</div>
+
+Brassroots is **multiplayer-ready out of the box**. NoChatReports, ServerCore, Chunky, Spark, PacketFixer, and Connector are pre-tuned for small private servers and friend groups.
+
+> *Bring your trains, your tea, and your build crew.*
+
+---
+
+<div align="center">
+
+## 📋 Tech Specs
+
+</div>
 
 | | |
 |---|---|
-| **Minecraft version** | 1.21.1 |
-| **Mod loader** | NeoForge |
-| **Mod count** | ~370 |
-| **Theme** | Cozy survival · Create-focused · build · cook · explore · travel |
-| **Status** | In development |
-| **Planned platforms** | Modrinth, CurseForge |
+| 🎮 **Minecraft** | 1.21.1 |
+| 🔧 **Loader** | NeoForge |
+| 📦 **Mods** | ~370, hand-picked |
+| 💾 **Recommended RAM** | 8 GB+ |
+| 🌅 **Shaders** | Iris-compatible · EuphoriaPatcher pre-included |
+| 🌐 **Multiplayer** | Yes — server-tuned out of the box |
 
 ---
 
-## Highlights
+<div align="center">
 
-- **Create universe** — Create plus a deep stack of addons: Create: Dragons Plus, Numismatics, Aeronautics, Central Kitchen, Confectionery, Big Cannons, Connected, Copper & Zinc, Enchantment Industry, Factory, Hypertube, Ironworks, MTG, Power Loader, Radar, Ratatouille, Rustic Structures, Train Parts, Vibrant Vaults, Jetpack, Schematic Checker, Tea, Transmission, Framed, Better FPS, Food, Gunpowder, Deco, Addition, Colorful Pipes, Compatible Storage, Petrolpark, GnKinetics, Copycats, Propulsion, SliceAndDice, Dynamic Lights, and more.
-- **Trains & travel** — Steam'n'Rails, Create Railways Navigator, Train Parts, Antique Atlas, Surveyor, Explorer's Compass, Nature's Compass.
-- **Building & decoration** — Macaw's full suite, Chipped, Handcrafted, Supplementaries (+ Suppsquared), Amendments, Comforts, Better Beds, Beautify, Interiors, Immersive Furniture / Paintings / Lanterns, Bells and Whistles, Design n Decor, Bits n Bobs, Cluttered, Hearths, Kaleidoscope Cookery, Plushie Buddies.
-- **Food & farming** — Farmer's Delight and a wide range of compats: Auto Chef's, Fruits, Display, Storage, More, My Nether's, Oceans, Rustic, Ratatouille Fried Delights, Some Assembly Required, Stacked Blocks, Smarter Farmers, Right Click Harvest.
-- **Structures & adventure** — YUNG's Better series, Dungeons Arise + Seven Seas, Choice Theorem's Overhauled Village, Dungeons and Taverns, Lukis' structure packs, Medieval Buildings, Hopo Better Ruined Portals / Underwater Ruins, Mushroom Quest, Philip's Ruins, Incendium, Illager Invasion, Raided, Villages and Pillages, Sparse Structures, Better Archeology.
-- **World & biomes** — Biomes O' Plenty, Oh The Biomes We've Gone, Terralith, Tectonic, Better End, Better Nether, Stony Cliffs FML, Hybrid Aquatic, Worldweaver, Oh The Trees You'll Grow.
-- **Mobs** — Friends and Foes, Creeper Overhaul, Ribbits, Weaponmaster (YDM).
-- **Performance & visuals** — Sodium (+ Extras, Dynamic Lights, Shadowy Path Blocks, Leaf Culling, Options API), Iris + EuphoriaPatcher, ImmediatelyFast, BadOptimizations, ModernFix, Lithium, Saturn, Krypton, FerriteCore, C2ME, Noisium, GPUTape, AmbientSounds, ParticleRain, Visuality, SkinLayers3D, WaveyCapes, Shutter.
-- **Quality of life** — Jade, BetterF3, Better Advancements, Advancement Plaques, Legendary Tooltips, FancyMenu / DrippyLoadingScreen, MouseTweaks, Controlling, ShulkerBoxTooltip, Easy Shulker Boxes, Trash Cans, Easy Anvils / Magic, Leaves Be Gone, JEI, Almanac, Modopedia, Patchouli, Searchables, Antique Atlas, Personality.
-- **Sound & immersion** — Sound Physics Remastered, Drip Sounds, Pipe Organs, Immersive Melodies, Simple Voice Chat.
+## 🌱 Philosophy
 
-A full categorised mod list lives in the [Wiki](../../wiki).
+</div>
+
+Brassroots leans **cozy, not punishing**. There is no forced progression gate, no quest that locks Create behind hours of busywork.
+
+The pack assumes you came here to **build**, **automate**, **decorate**, **cook**, **explore**, and **run trains** — and gives you the room to do all of that at your own pace.
 
 ---
 
-## Installation
+<div align="center">
 
-> The pack is not yet published. Once the first release ships, the easiest install will be via the **Modrinth App** or **CurseForge / Prism Launcher**.
+### *Welcome home.*
+### *Stoke the firebox.* 🔥
 
-Until release, the pack can be assembled locally from the mods directory. A proper installer / `.mrpack` export will follow.
-
----
-
-## Documentation
-
-- [Wiki — Home](../../wiki) — overview and entry point
-- [Wiki — Mod List](../../wiki/Mod-List) — full categorised mod overview
-- [Wiki — Getting Started](../../wiki/Getting-Started) — first steps for new players
-- [CHANGELOG.md](./CHANGELOG.md) — version history
-
----
-
-## Reporting issues / suggestions
-
-Bug reports, mod requests, and balance feedback go in the [Issues](../../issues) tab. Please include:
-
-- Pack version
-- Minecraft + NeoForge version
-- A short reproduction
-- `latest.log` (or relevant crash log) if applicable
-
----
-
-## Credits
-
-Brassroots is a curated assembly — all credit for the mods belongs to their respective authors. The list of included mods (and their authors) is maintained in the Wiki. If you are a mod author and would like a listing changed or removed, please open an issue.
-
----
-
-## License
-
-The pack configuration, scripts, and documentation in this repository are released under the terms in [LICENSE](./LICENSE). The bundled mods remain under their own licenses.
+</div>
