@@ -1,0 +1,39 @@
+Brassroots Modpack — Configuration & Documentation License
+============================================================
+
+Copyright (c) 2026 Tim Müllejans
+
+This license applies to the configuration files, scripts, documentation,
+and other original content contained in this repository. It does NOT apply
+to the bundled third-party Minecraft mods, which remain under the licenses
+chosen by their respective authors.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this repository's original content (the "Content"), to use, copy,
+modify, and redistribute the Content for non-commercial purposes, subject
+to the following conditions:
+
+1. Attribution
+   Credit must be given to the Brassroots modpack and its author in any
+   redistributed or derivative work.
+
+2. Non-commercial use
+   The Content may not be sold, sublicensed for a fee, or included in any
+   paid product or paid service without prior written permission.
+
+3. Mod redistribution
+   Redistribution of any bundled mod is governed solely by that mod's own
+   license. Inclusion of a mod in this pack does not grant any additional
+   rights regarding that mod.
+
+4. No warranty
+   The Content is provided "as is", without warranty of any kind, express
+   or implied. The author shall not be liable for any claim or damages
+   arising from use of the Content.
+
+----
+
+If you would prefer a standard license (MIT, CC-BY-NC-4.0, ARR), this file
+can be replaced. This placeholder is intentionally restrictive on the
+commercial side, in line with typical modpack policies on Modrinth and
+CurseForge.

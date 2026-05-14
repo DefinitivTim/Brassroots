@@ -1,0 +1,48 @@
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editors ---
+.idea/
+.vscode/
+*.swp
+*~
+
+# --- Minecraft / Modpack runtime artefacts ---
+# These do NOT belong in version control for a pack repo
+mods/
+libraries/
+versions/
+saves/
+crash-reports/
+logs/
+local/
+shaderpacks/
+resourcepacks/
+screenshots/
+options.txt
+optionsof.txt
+optionsshaders.txt
+servers.dat*
+usercache.json
+usernamecache.json
+hotbar.nbt
+realms_persistence.json
+*.log
+*.log.gz
+
+# --- World-specific ---
+world/
+world_nether/
+world_the_end/
+*.dat_old
+
+# --- Packwiz / build outputs (uncomment when relevant) ---
+# .packwiz-cache/
+# *.mrpack
+# build/
+
+# --- Misc ---
+.env
+.env.local
