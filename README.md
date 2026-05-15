@@ -7,9 +7,10 @@
 
 ### *Cozy survival, deeply rooted in Create.*
 
+[![Version](https://img.shields.io/badge/Version-v0.1.0--alpha-D4A574?style=for-the-badge)](./CHANGELOG.md)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.net)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.1-D4A574?style=for-the-badge)](https://neoforged.net)
-[![Mods](https://img.shields.io/badge/Mods-~370-3d2914?style=for-the-badge)](#)
+[![Mods](https://img.shields.io/badge/Mods-390-3d2914?style=for-the-badge)](#)
 [![Multiplayer](https://img.shields.io/badge/Multiplayer-Ready-2D5F3F?style=for-the-badge)](#)
 
 </div>
@@ -94,9 +95,10 @@ Brassroots is **multiplayer-ready out of the box**. NoChatReports, ServerCore, C
 
 | | |
 |---|---|
+| 🏷️ **Version** | `v0.1.0-alpha` (in-game: *Brassroots Alpha 0.1*) |
 | 🎮 **Minecraft** | 1.21.1 |
 | 🔧 **Loader** | NeoForge |
-| 📦 **Mods** | ~370, hand-picked |
+| 📦 **Mods** | 390, hand-picked |
 | 💾 **Recommended RAM** | 8 GB+ |
 | 🌅 **Shaders** | Iris-compatible · EuphoriaPatcher pre-included |
 | 🌐 **Multiplayer** | Yes — server-tuned out of the box |
