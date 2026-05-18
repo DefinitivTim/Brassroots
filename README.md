@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: 1280×720 empfohlen. Beispielhafter Pfad: -->
-![Brassroots Banner](https://placehold.co/1280x400/3d2914/d4a574?text=Brassroots&font=playfair)
+![Brassroots Banner](https://github.com/DefinitivTim/Brassroots/blob/main/files/brassroots.png)
 
 # 🌿 Brassroots ⚙️
 
