@@ -1,1 +1,3 @@
-^^^{"placeholder":"usedram"}MB of {"placeholder":"maxram"}MB used.^^^
+^^^
+{"placeholder":"usedram"}MB of {"placeholder":"maxram"}MB used.
+^^^
