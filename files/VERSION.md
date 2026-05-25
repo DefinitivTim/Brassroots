@@ -1,3 +1,3 @@
-Brassroots v0.1.0-alpha
-Minecraft v{"placeholder":"mcversion"}
-Neoforge v{"placeholder":"loaderver"}
+Brassroots v1.0.0-alpha1
+Minecraft {"placeholder":"mcversion"}
+Neoforge {"placeholder":"loaderver"}
