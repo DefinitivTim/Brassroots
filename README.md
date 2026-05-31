@@ -9,7 +9,6 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0--alpha1-D4A574?style=for-the-badge)](./CHANGELOG.md)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.net)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.1-D4A574?style=for-the-badge)](https://neoforged.net)
 [![Multiplayer](https://img.shields.io/badge/Multiplayer-Ready-2D5F3F?style=for-the-badge)](#)
@@ -150,63 +149,11 @@ Brassroots is multiplayer-ready out of the box, server-tuned and quietly optimiz
 
 | | |
 |---|---|
-| 🏷️ **Version** | `v1.0.0-alpha1` (in-game: *Brassroots Alpha 0.2 / The First Playable Alpha*) |
 | 🎮 **Minecraft** | 1.21.1 |
 | 🔧 **Loader** | NeoForge |
 | 💾 **Recommended RAM** | 8 GB+ |
 | 🌅 **Shaders** | Iris-ready, EuphoriaPatcher pre-included |
 | 🌐 **Multiplayer** | Yes. Server-tuned out of the box. |
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 📚 Documentation
-
-</div>
-
-<br>
-
-- [**Wiki**](../../wiki) — full documentation hub
-- [**Mod List**](../../wiki/Mod-List) — categorised overview of every mod in the pack
-- [**Getting Started**](../../wiki/Getting-Started) — first steps after installing
-- [**Changelog**](./CHANGELOG.md) — every change to the pack
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🐛 Reporting Issues
-
-</div>
-
-<br>
-
-Bug reports, mod requests, and balance feedback go in the [Issues](../../issues) tab. Please include pack version, Minecraft + NeoForge version, a short reproduction, and `latest.log` (or relevant crash log) if applicable.
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 💚 Credits & License
-
-</div>
-
-<br>
-
-Brassroots is a curated assembly — all credit for the mods belongs to their respective authors. The bundled mods remain under their own licenses. The pack configuration and documentation in this repository are released under the terms in [LICENSE](./LICENSE).
 
 <br>
 
